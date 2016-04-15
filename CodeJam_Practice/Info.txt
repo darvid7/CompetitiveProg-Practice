@@ -1,0 +1,5 @@
+get a powerful IDE without too much weight -> iPython Notebook ?
+^ shows values of variables
+less prints to reduce I/O & time taken
+
+Code in python 2.7.x
