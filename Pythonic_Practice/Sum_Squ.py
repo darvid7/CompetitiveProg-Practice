@@ -16,8 +16,8 @@ def sum_sq_p(*a):                   # a is args
     return sum(x*x for x in a)      # list comprehension
 
 if __name__ == "__main__":
-    print sum_sq(5, 4)              # 25 + 16
-    print sum_sq_p(5, 4)
-    print sum_sq_p(1, 2, 3, 4, 5, 6, 7)
+    print(sum_sq(5, 4))           # 25 + 16
+    print(sum_sq_p(5, 4))
+    print(sum_sq_p(1, 2, 3, 4, 5, 6, 7))
 
 
