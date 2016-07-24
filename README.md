@@ -1,8 +1,13 @@
 # CompetitiveProg_Practice
-Practice questions
 
-Practice questions for/from Code Jam/ICPC 
+Practice questions/exercises from Code Jam/ICPC/HackerRank etc
 
-Solutions implemented in Python/Java
 
-Note: Learn C++
+
+Notes:
+
+ - Learn C++
+
+ - Brush up on DP & backtracking
+
+ - Learn RegEx
