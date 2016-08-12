@@ -22,6 +22,9 @@ edit_distance(abce, aif) = 3
 
  Recurrence relation for i,j => 1 (after first row and col)
   Table[i][j] = min(top-left, top, left) + 1
+
+
+  Note: there is a bug here somewhere..
 """
 
 def edit_distance(string_a, string_b):
