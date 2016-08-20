@@ -1,0 +1,28 @@
+2
+1 Joe Smith
+2 Sally Baynes
+2
+1 S
+2 S
+
+
+3
+1 Bill Bloggs
+3 Sara Quentin
+2 Jo Jones
+4
+1 S
+2 D
+1 L
+3 Q
+
+4
+1 Joe Smith
+2 Sally Baynes
+4 Peter Parker
+3 No Bu
+4
+1 S
+2 S
+3 E
+4 E
