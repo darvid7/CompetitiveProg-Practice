@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d868dc90-0862-48f9-9764-1e2af8558b2c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comps/HackerRank/World_Code_Sprints/Oct 16/Stock_Merchant.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Comps/HackerRank/World_Code_Sprints/Oct 16/Two_Chars.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HackerRank_Domains/Algorithms/Graph_Theory/BFS-Shortest-Reach.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HackerRank_Domains/Algorithms/Graph_Theory/Dijkstra-Shortest-Reach-2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HackerRank_Domains/Algorithms/HeapQ/Qheap1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HackerRank_domains/Chief_Hopper.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Comps/HackerRank/To_Do/BreadthFirstSearch.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Comps/HackerRank/Done/Candies_DP.py" afterPath="$PROJECT_DIR$/HackerRank_Domains/Algorithms/Random_BitsnPieces/Candies_DP.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Comps/HackerRank/Done/Insertion_Sort.py" afterPath="$PROJECT_DIR$/HackerRank_Domains/Algorithms/Random_BitsnPieces/Insertion_Sort.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Comps/HackerRank/Done/Iterables_n_Iterators.py" afterPath="$PROJECT_DIR$/HackerRank_Domains/Algorithms/Random_BitsnPieces/Iterables_n_Iterators.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Comps/HackerRank/Done/Missing_No.py" afterPath="$PROJECT_DIR$/HackerRank_Domains/Algorithms/Random_BitsnPieces/Missing_No.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Comps/HackerRank/Done/Sherlock_Arr.py" afterPath="$PROJECT_DIR$/HackerRank_Domains/Algorithms/Random_BitsnPieces/Sherlock_Arr.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Comps/HackerRank/Done/Sweetness.py" afterPath="$PROJECT_DIR$/HackerRank_Domains/Algorithms/Random_BitsnPieces/Sweetness.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Comps/HackerRank/Done/loneyInteger.py" afterPath="$PROJECT_DIR$/HackerRank_Domains/Algorithms/Random_BitsnPieces/loneyInteger.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Comps/HackerRank/To_Do/Down to Zero II.py" afterPath="$PROJECT_DIR$/HackerRank_Domains/To_Do/Down to Zero II.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Comps/HackerRank/To_Do/EvenTree.py" afterPath="$PROJECT_DIR$/HackerRank_Domains/To_Do/EvenTree.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Comps/HackerRank/To_Do/InsertionSortAnalysis.py" afterPath="$PROJECT_DIR$/HackerRank_Domains/To_Do/InsertionSortAnalysis.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Comps/HackerRank/To_Do/InsertionSortAnalysis_works.py" afterPath="$PROJECT_DIR$/HackerRank_Domains/To_Do/InsertionSortAnalysis_works.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Comps/HackerRank/To_Do/PrimMST.py" afterPath="$PROJECT_DIR$/HackerRank_Domains/To_Do/PrimMST.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Pythonic_Practice/List.py" afterPath="$PROJECT_DIR$/Pythonic_Things/List.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Pythonic_Practice/Sum_Squ.py" afterPath="$PROJECT_DIR$/Pythonic_Things/Sum_Squ.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Comps/ICPC_Practice/NZPC/2016_Redux/A.py" afterPath="$PROJECT_DIR$/Comps/ICPC_Practice/NZPC/2016_Redux/A.py" />
-    </list>
+    <list default="true" id="d868dc90-0862-48f9-9764-1e2af8558b2c" name="Default" comment="" />
     <ignored path="CompetitiveProg_Practice.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

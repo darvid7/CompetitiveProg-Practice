@@ -1,2 +1,6 @@
 
 CodeJam_Practice/.idea/workspace.xml
+
+*.idea
+*workspace.xml
+*.xml
