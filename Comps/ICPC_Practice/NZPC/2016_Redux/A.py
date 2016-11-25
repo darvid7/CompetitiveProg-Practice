@@ -1,4 +1,6 @@
-# correct :D
+# both correct :D
+# sort list less efficient but easier to read and debug
+
 
 n = int(input().strip('\n'))
 """

@@ -16,7 +16,7 @@ def new_sweetness(a,b):
 
 count = 0
 
-[heapq.heappush(min_heap, nx) for n in cookies]
+[heapq.heappush(min_heap, n) for n in cookies]
 if no_cookies % 2 == 0:
     go_to = no_cookies
 else:
